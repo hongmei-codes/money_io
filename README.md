@@ -9,12 +9,12 @@ Money I/O is a web application built with React. Use it to track your income and
 
 # Features
 ## Add transaction
-![add transaction]()
+![add transaction](https://github.com/hongmei-codes/money_io/blob/master/demo/add.gif)
 
 Add a transaction and it will show up under 'Past Transactions'. Your balance will be updated automatically.
 
 ## Remove transaction
-![remove transaction]()
+![remove transaction](https://github.com/hongmei-codes/money_io/blob/master/demo/remove.gif)
 
 Remove a transaction with just one click which will also be reflected in the total balance amount.
 
