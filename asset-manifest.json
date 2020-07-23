@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/money_io/static/css/main.4d5d8e7a.chunk.css",
+    "main.js": "/money_io/static/js/main.d052c5aa.chunk.js",
+    "main.js.map": "/money_io/static/js/main.d052c5aa.chunk.js.map",
+    "runtime-main.js": "/money_io/static/js/runtime-main.cf31c5cf.js",
+    "runtime-main.js.map": "/money_io/static/js/runtime-main.cf31c5cf.js.map",
+    "static/js/2.27db1fb4.chunk.js": "/money_io/static/js/2.27db1fb4.chunk.js",
+    "static/js/2.27db1fb4.chunk.js.map": "/money_io/static/js/2.27db1fb4.chunk.js.map",
+    "index.html": "/money_io/index.html",
+    "precache-manifest.b6cdc175e6f2456fe7397076909d80d9.js": "/money_io/precache-manifest.b6cdc175e6f2456fe7397076909d80d9.js",
+    "service-worker.js": "/money_io/service-worker.js",
+    "static/css/main.4d5d8e7a.chunk.css.map": "/money_io/static/css/main.4d5d8e7a.chunk.css.map",
+    "static/js/2.27db1fb4.chunk.js.LICENSE.txt": "/money_io/static/js/2.27db1fb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf31c5cf.js",
+    "static/js/2.27db1fb4.chunk.js",
+    "static/css/main.4d5d8e7a.chunk.css",
+    "static/js/main.d052c5aa.chunk.js"
+  ]
+}
